@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezaerigh.starcraft.ai/sitemap.xml
